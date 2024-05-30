@@ -1,3 +1,4 @@
+## Author: Praveenkumar Hiremath (Lund University 10/20/2019.)
 from __future__ import division
 import numpy as np
 import matplotlib
