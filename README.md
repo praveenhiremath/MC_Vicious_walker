@@ -1,1 +1,2 @@
-# MC_Vicious_walker
+# Stochastic Processes Project - Vicious Walker
+
